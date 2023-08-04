@@ -12,6 +12,9 @@ var Wendy = new User();
 Bucky.name = "Bucky";
 Wendy.name = "Wendy";
 
+console.log("Bucky: " + Bucky.life);
+console.log("Wendy: " + Wendy.life);
+
 Bucky.giveLife(Wendy);
 console.log("Bucky: " + Bucky.life);
 console.log("Wendy: " + Wendy.life);
