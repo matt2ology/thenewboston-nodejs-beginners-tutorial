@@ -31,5 +31,5 @@ console.log("Wendy: " + Wendy.life);
 
 // You can add properties to all objects
 User.prototype.magic = 60;
-console.log("Bucky has "+ Bucky.magic + " magic points");
-console.log("Wendy has "+ Wendy.magic + " magic points");
+console.log("Bucky has " + Bucky.magic + " magic points");
+console.log("Wendy has " + Wendy.magic + " magic points");
